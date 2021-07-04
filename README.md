@@ -4,7 +4,7 @@
 ## Fotos
 
 <div>
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/Login.png" width="500" height="300"/>
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/Login.png" width="400" height="300"/>
   <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/Listagem.png" width="400" height="300"/>
   <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/cadastro.png" width="400" height="300" />
   <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/cadCaso.png" width="400" height="300" />
@@ -12,7 +12,7 @@
 <br>
 <b>Fotos App</b>
 <div>
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppHome.png" width="300" height="200"/>
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppHome.png" width="200" height="400"/>
   <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppBemVindo.png" width="300" height="200"/>
   <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppContaro.png" width="300" height="200" />
   <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/ContatoEmail.png" width="300" height="200" />
