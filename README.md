@@ -9,13 +9,13 @@
 ## Fotos
 
 <div>
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/Login.png" width="500" height="350"/>
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/Listagem.png" width="500" height="350"/>
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/cadastro.png" width="400" height="350" />
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/cadCaso.png" width="400" height="350" />
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/Login.png" width="500" height="400"/>
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/Listagem.png" width="500" height="400"/>
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/cadastro.png" width="500" height="400" />
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/cadCaso.png" width="500" height="400" />
 </div>
 <br>
-## Fotos App
+<b> Fotos App </b>
 <div>
   <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppHome.png" width="250" height="400"/>
   <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppBemVindo.png" width="250" height="400"/>
