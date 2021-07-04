@@ -10,7 +10,7 @@
   <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/cadCaso.png" width="400" height="300" />
 </div>
 
-#Fotos App
+<b>Fotos App</b>
 
 ## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
