@@ -12,10 +12,10 @@
 <br>
 <b>Fotos App</b>
 <div>
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppHome.png" width="400" height="300"/>
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppBemVindo.png" width="400" height="300"/>
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppContaro.png" width="400" height="300" />
-  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/ContatoEmail.png" width="400" height="300" />
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppHome.png" width="300" height="200"/>
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppBemVindo.png" width="300" height="200"/>
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/AppContaro.png" width="300" height="200" />
+  <img src="https://github.com/Fabriciocruzc/Hero/blob/master/imgs/ContatoEmail.png" width="300" height="200" />
 </div>
 
 ## Tecnologias
